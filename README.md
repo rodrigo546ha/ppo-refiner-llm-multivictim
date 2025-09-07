@@ -40,10 +40,8 @@ All released results are **sanitized** to exclude raw adversarial text, in line 
 │   ├── 02_eval.ipynb        # evaluation (ASR, BERTScore, BLEU)
 │   ├── 03_ablations.ipynb   # ablation studies (A1–A5)
 ├── results/
-│   ├── eval/                # sanitized evaluation CSVs
+│   ├── eval/                # evaluation CSVs
 │   ├── ablations/           # ablation results (CSV)
-│   └── figures/             # generated figures
-├── artifacts/               # model checkpoints (gitignored)
 
 
 
