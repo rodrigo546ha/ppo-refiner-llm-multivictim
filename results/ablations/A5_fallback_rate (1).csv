@@ -1,0 +1,10 @@
+victim,variant,fallback_rate,n
+Gemma,base,0.0,600
+Gemma,final,0.0,600
+Gemma,single,0.0,600
+Qwen,base,0.0,600
+Qwen,final,0.0,600
+Qwen,single,0.0,600
+TinyLlama,base,0.0,600
+TinyLlama,final,0.0,600
+TinyLlama,single,0.0,600
