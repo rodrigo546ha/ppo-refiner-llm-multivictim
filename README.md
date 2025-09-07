@@ -45,11 +45,14 @@ All released results are **sanitized** to exclude raw adversarial text, in line 
 │   └── figures/             # generated figures
 ├── artifacts/               # model checkpoints (gitignored)
 
+
+
 git clone https://github.com/rodrigo546ha/ppo-refiner-llm-multivictim.git
 cd ppo-refiner-llm-multivictim
 pip install -r requirements.txt
 
-Results:
+---
+## Results:
 Key metrics used in this work:
 
 ASR (Attack Success Rate) — proportion of prompts that bypass defenses.
@@ -60,8 +63,9 @@ BLEU — lexical change introduced by the refiner compared to the original promp
 
 A global summary and per-victim analysis are included in the results/ folder.
 
+---
 
-Citation:
+## Citation:
 @misc{llm_redteam_refiner,
   title        = {PPO Refiner for Multi-Victim LLM Red-Teaming},
   author       = {Rodrigo, Sofía},
