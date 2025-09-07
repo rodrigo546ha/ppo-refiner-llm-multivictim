@@ -31,10 +31,6 @@ All released results are **sanitized** to exclude raw adversarial text, in line 
 ```text
 .
 ├── README.md                # this file
-├── LICENSE                  # license file
-├── SECURITY.md              # responsible disclosure and safe-use policy
-├── ETHICS.md                # ethical considerations
-├── requirements.txt         # dependencies (pip) or environment.yml (conda)
 ├── notebooks/
 │   ├── 01_train.ipynb       # PPO training loop
 │   ├── 02_eval.ipynb        # evaluation (ASR, BERTScore, BLEU)
