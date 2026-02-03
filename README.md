@@ -62,7 +62,7 @@ A global summary and per-victim analysis are included in the results/ folder.
 ## Citation:
 @misc{llm_redteam_refiner,
   title        = {PPO Refiner for Multi-Victim LLM Red-Teaming},
-  author       = {Rodrigo, Sofía},
+  author       = {Rodrigo},
   year         = {2025},
   howpublished = {\url{https://github.com/rodrigo546ha/ppo-refiner-llm-multivictim}}
 }
